@@ -1,0 +1,17 @@
+.mainapp{
+  background-color: #053E81;
+  min-height: 100vh;
+  
+}
+
+.title{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 28px;
+padding-top: 20px;
+padding-left: 20px;
+
+color: #E5E5E5;
+}
